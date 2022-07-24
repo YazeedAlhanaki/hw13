@@ -2,7 +2,7 @@
   
   "scripts": {
     "dev": "nodemon src/server.ts | pino-colada",
-    "start": "node src/server.js"
+    "start": "node src/server.ts"
 
   },
   
